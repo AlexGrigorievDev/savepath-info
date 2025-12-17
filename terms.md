@@ -57,8 +57,7 @@ We may update these Terms from time to time. The “Last updated” date will in
 
 ## 11. Contact
 If you have questions about these Terms, contact:
-Email: support@example.com
-Developer: [Your Name / Studio Name]
+Email: info@grigorev.tech
 
 ## 12. Apple Standard EULA
 If you are using the App on Apple platforms, your use is also subject to Apple’s Licensed Application End User License Agreement (EULA), unless you are provided a custom EULA through the App Store.
@@ -123,8 +122,7 @@ If you are using the App on Apple platforms, your use is also subject to Apple�
 
 ## 11. Контакты
 Если у вас есть вопросы по этим Условиям, свяжитесь с нами:
-Email: support@example.com
-Разработчик: [Ваше имя / название студии]
+Email: info@grigorev.tech
 
 ## 12. Стандартное лицензионное соглашение Apple
 Если вы используете Приложение на платформах Apple, использование также регулируется стандартным лицензионным соглашением Apple (Licensed Application End User License Agreement, EULA), если в App Store не предоставлено пользовательское (кастомное) соглашение.
