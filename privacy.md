@@ -69,8 +69,7 @@ We may update this Privacy Policy from time to time. The “Last updated” date
 
 ## Contact
 If you have questions about this Privacy Policy, contact:
-Email: support@example.com
-Developer: [Your Name / Studio Name]
+Email: info@grigorev.tech
 
 
 # Политика конфиденциальности — ПланКопи
