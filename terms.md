@@ -1,23 +1,38 @@
-# Terms of Use — SavePath
+Terms of Use (applies to: SavePath / «ПланКопи», MediTrack / «МедиТрек»)
+Last updated / Дата обновления: 2025-12-17
+
+This document includes:
+- EN: Terms of Use for SavePath and MediTrack
+- RU: Пользовательское соглашение для «ПланКопи» и «МедиТрек»
+
+────────────────────────────────────────────────────────────
+EN — Terms of Use (SavePath, MediTrack)
+────────────────────────────────────────────────────────────
 
 Last updated: 2025-12-17
 
-These Terms of Use (“Terms”) govern your use of the SavePath mobile application (the “App”). By downloading or using the App, you agree to these Terms.
+These Terms of Use (“Terms”) govern your use of the SavePath and MediTrack mobile applications (each, the “App”). By downloading or using an App, you agree to these Terms.
 
-## 1. The App
-SavePath provides tools for personal finance tracking, budgeting, and goal setting. The App is provided for informational purposes only and does not provide financial, investment, legal, or tax advice.
+## 1. The Apps
+SavePath provides tools for personal finance tracking, budgeting, and goal setting.
+MediTrack provides tools for tracking meditation sessions and related practice goals.
+
+The Apps are provided for informational and personal-use purposes only and do not provide financial, investment, legal, tax, medical, or mental health advice.
 
 ## 2. Eligibility
-You must be at least 13 years old to use the App. If you are under the age required in your country to consent to data processing, you may use the App only with a parent or guardian’s consent.
+You must be at least 13 years old to use the Apps. If you are under the age required in your country to consent to data processing, you may use the Apps only with a parent or guardian’s consent.
 
 ## 3. Your Content
-The App may allow you to enter and store information such as transactions, categories, notes, and goals (“User Content”).
+The Apps may allow you to enter and store information (“User Content”), such as:
+- SavePath: transactions, categories, notes, budgets, goals
+- MediTrack: session start time, duration, notes, tags, practice goals (if available)
+
 - You are responsible for the accuracy of your User Content.
 - You retain all rights to your User Content.
-- The App is designed to store your User Content locally on your device unless you enable iCloud/backup features provided by Apple.
+- The Apps are designed to store User Content locally on your device unless you enable iCloud/backup features provided by Apple.
 
 ## 4. Subscription and Payments
-The App may offer a monthly subscription to access premium features.
+The Apps may offer a monthly subscription to access premium features.
 - Subscriptions are processed by Apple via In-App Purchases.
 - Payment will be charged to your Apple ID account at confirmation of purchase.
 - Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period.
@@ -29,60 +44,68 @@ Prices may vary by country/region and may change. Taxes may apply where required
 
 ## 5. Acceptable Use
 You agree not to:
-- use the App for unlawful purposes
-- attempt to interfere with the App’s operation or security
+- use the Apps for unlawful purposes
+- attempt to interfere with the Apps’ operation or security
 - reverse engineer, decompile, or attempt to extract source code except to the extent permitted by law
-- copy, modify, or distribute the App in violation of applicable law or these Terms
+- copy, modify, or distribute the Apps in violation of applicable law or these Terms
 
 ## 6. Intellectual Property
-The App, including its design, code, and branding, is owned by the developer and is protected by intellectual property laws. You are granted a limited, non-exclusive, non-transferable license to use the App for personal, non-commercial purposes in accordance with these Terms.
+The Apps, including their design, code, and branding, are owned by the developer and are protected by intellectual property laws. You are granted a limited, non-exclusive, non-transferable license to use the Apps for personal, non-commercial purposes in accordance with these Terms.
 
 ## 7. Disclaimers
-- The App is provided “as is” and “as available”.
-- We do not guarantee that the App will be uninterrupted, error-free, or meet your requirements.
-- You are solely responsible for your financial decisions and for backing up your data.
+- The Apps are provided “as is” and “as available”.
+- We do not guarantee that the Apps will be uninterrupted, error-free, or meet your requirements.
+- You are solely responsible for your decisions and for backing up your data.
 
 To the maximum extent permitted by law, we disclaim all warranties, express or implied.
 
 ## 8. Limitation of Liability
-To the maximum extent permitted by law, the developer will not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of data, profits, or revenues, arising from or related to your use of the App.
+To the maximum extent permitted by law, the developer will not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of data, profits, or revenues, arising from or related to your use of the Apps.
 
-If liability cannot be fully excluded under applicable law, it will be limited to the amount you paid for the subscription during the 12 months immediately preceding the event giving rise to the claim (if any), or the minimum amount permitted by law.
+If liability cannot be fully excluded under applicable law, it will be limited to the amount you paid for subscriptions during the 12 months immediately preceding the event giving rise to the claim (if any), or the minimum amount permitted by law.
 
 ## 9. Termination
-You may stop using the App at any time by uninstalling it. We may suspend or terminate access to the App if you materially violate these Terms, to the extent permitted by law.
+You may stop using an App at any time by uninstalling it. We may suspend or terminate access to an App if you materially violate these Terms, to the extent permitted by law.
 
 ## 10. Changes to These Terms
-We may update these Terms from time to time. The “Last updated” date will indicate when changes were made. Continued use of the App after changes means you accept the updated Terms.
+We may update these Terms from time to time. The “Last updated” date will indicate when changes were made. Continued use of an App after changes means you accept the updated Terms.
 
 ## 11. Contact
 If you have questions about these Terms, contact:
 Email: info@grigorev.tech
 
 ## 12. Apple Standard EULA
-If you are using the App on Apple platforms, your use is also subject to Apple’s Licensed Application End User License Agreement (EULA), unless you are provided a custom EULA through the App Store.
+If you are using the Apps on Apple platforms, your use is also subject to Apple’s Licensed Application End User License Agreement (EULA), unless you are provided a custom EULA through the App Store.
 
 
-# Пользовательское соглашение (Terms of Use) — ПланКопи
+────────────────────────────────────────────────────────────
+RU — Пользовательское соглашение («ПланКопи», «МедиТрек»)
+────────────────────────────────────────────────────────────
 
 Дата обновления: 2025-12-17
 
-Настоящие условия использования («Условия») регулируют использование мобильного приложения «ПланКопи» («Приложение»). Устанавливая или используя Приложение, вы соглашаетесь с этими Условиями.
+Настоящие условия использования («Условия») регулируют использование мобильных приложений «ПланКопи» и «МедиТрек» (каждое — «Приложение»). Устанавливая или используя Приложение, вы соглашаетесь с этими Условиями.
 
-## 1. О приложении
-«ПланКопи» предоставляет инструменты для учёта личных финансов, планирования бюджета и постановки целей. Приложение носит информационный характер и не является финансовой, инвестиционной, юридической или налоговой консультацией.
+## 1. О приложениях
+«ПланКопи» предоставляет инструменты для учёта личных финансов, планирования бюджета и постановки целей.
+«МедиТрек» предоставляет инструменты для ведения учёта медитаций и связанных целей практики.
+
+Приложения носят информационный и пользовательский характер и не являются финансовой, инвестиционной, юридической, налоговой, медицинской или психологической консультацией.
 
 ## 2. Возраст и правоспособность
-Для использования Приложения вам должно быть не менее 13 лет. Если в вашей стране требуется более высокий возраст для согласия на обработку данных, вы можете использовать Приложение только с согласия родителя или законного представителя.
+Для использования Приложений вам должно быть не менее 13 лет. Если в вашей стране требуется более высокий возраст для согласия на обработку данных, вы можете использовать Приложения только с согласия родителя или законного представителя.
 
 ## 3. Данные пользователя
-Приложение позволяет вводить и хранить информацию (транзакции, категории, заметки, цели и т.п.) («Контент пользователя»).
+Приложения позволяют вводить и хранить информацию («Контент пользователя»), например:
+- «ПланКопи»: транзакции, категории, заметки, бюджеты, цели
+- «МедиТрек»: время начала сессии, длительность, заметки, теги, цели практики (если доступны)
+
 - Вы несёте ответственность за достоверность введённых данных.
 - Права на Контент пользователя остаются за вами.
-- Приложение рассчитано на локальное хранение данных на устройстве, если вы не включили функции резервного копирования/синхронизации iCloud, предоставляемые Apple.
+- Приложения рассчитаны на локальное хранение данных на устройстве, если вы не включили функции резервного копирования/синхронизации iCloud, предоставляемые Apple.
 
 ## 4. Подписка и оплата
-В Приложении может быть доступна месячная подписка для доступа к расширенным функциям.
+В Приложениях может быть доступна месячная подписка для доступа к расширенным функциям.
 - Подписка оформляется через Apple (встроенные покупки / In-App Purchases).
 - Оплата списывается с вашего Apple ID при подтверждении покупки.
 - Подписка автоматически продлевается, если автопродление не отключено минимум за 24 часа до окончания текущего периода.
@@ -94,25 +117,25 @@ If you are using the App on Apple platforms, your use is also subject to Apple�
 
 ## 5. Правила использования
 Вы соглашаетесь не:
-- использовать Приложение в незаконных целях
-- пытаться вмешиваться в работу Приложения или обходить меры безопасности
+- использовать Приложения в незаконных целях
+- пытаться вмешиваться в работу Приложений или обходить меры безопасности
 - декомпилировать, дизассемблировать, выполнять реверс-инжиниринг или пытаться извлечь исходный код, за исключением случаев, прямо разрешённых законом
-- копировать, изменять или распространять Приложение с нарушением закона или настоящих Условий
+- копировать, изменять или распространять Приложения с нарушением закона или настоящих Условий
 
 ## 6. Права интеллектуальной собственности
-Приложение, включая дизайн, код и элементы бренда, принадлежит разработчику и защищено законодательством об интеллектуальной собственности. Вам предоставляется ограниченная, неисключительная, непередаваемая лицензия на использование Приложения в личных некоммерческих целях в рамках настоящих Условий.
+Приложения, включая дизайн, код и элементы бренда, принадлежат разработчику и защищены законодательством об интеллектуальной собственности. Вам предоставляется ограниченная, неисключительная, непередаваемая лицензия на использование Приложений в личных некоммерческих целях в рамках настоящих Условий.
 
 ## 7. Отказ от гарантий
-- Приложение предоставляется «как есть» и «по мере доступности».
+- Приложения предоставляются «как есть» и «по мере доступности».
 - Мы не гарантируем бесперебойную работу, отсутствие ошибок или соответствие вашим ожиданиям.
-- Вы самостоятельно несёте ответственность за финансовые решения и за сохранность/резервное копирование данных.
+- Вы самостоятельно несёте ответственность за решения, принимаемые на основе использования Приложений, и за сохранность/резервное копирование данных.
 
 В максимально допустимой законом мере мы исключаем любые гарантии, явные или подразумеваемые.
 
 ## 8. Ограничение ответственности
-В максимально допустимой законом мере разработчик не несёт ответственности за косвенные, случайные, специальные, последующие убытки, штрафные убытки, а также за потерю данных, прибыли или выручки, возникшие из-за использования или невозможности использования Приложения.
+В максимально допустимой законом мере разработчик не несёт ответственности за косвенные, случайные, специальные, последующие убытки, штрафные убытки, а также за потерю данных, прибыли или выручки, возникшие из-за использования или невозможности использования Приложений.
 
-Если полное исключение ответственности невозможно по закону, ответственность ограничивается суммой, уплаченной вами за подписку за 12 месяцев, предшествующих событию, ставшему основанием претензии (если применимо), либо минимальной суммой, допускаемой законом.
+Если полное исключение ответственности невозможно по закону, ответственность ограничивается суммой, уплаченной вами за подписки за 12 месяцев, предшествующих событию, ставшему основанием претензии (если применимо), либо минимальной суммой, допускаемой законом.
 
 ## 9. Прекращение использования
 Вы можете прекратить использование Приложения в любое время, удалив его с устройства. Мы можем ограничить или прекратить доступ к Приложению при существенном нарушении вами настоящих Условий — в пределах, допускаемых законом.
@@ -125,4 +148,4 @@ If you are using the App on Apple platforms, your use is also subject to Apple�
 Email: info@grigorev.tech
 
 ## 12. Стандартное лицензионное соглашение Apple
-Если вы используете Приложение на платформах Apple, использование также регулируется стандартным лицензионным соглашением Apple (Licensed Application End User License Agreement, EULA), если в App Store не предоставлено пользовательское (кастомное) соглашение.
+Если вы используете Приложения на платформах Apple, использование также регулируется стандартным лицензионным соглашением Apple (Licensed Application End User License Agreement, EULA), если в App Store не предоставлено пользовательское (кастомное) соглашение.
